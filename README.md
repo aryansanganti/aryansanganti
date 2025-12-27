@@ -50,7 +50,7 @@ Feel free to reach out, collaborate, or just say hi!
 
 ## 💬 Let's Connect
 
-<a href="https://portfolio-aryansangantis-projects.vercel.app/">
+<a href="https://aryan-sanganti-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/aryansanganti">
