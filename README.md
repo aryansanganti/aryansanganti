@@ -2,8 +2,7 @@
 <img width="65%" src="https://github.com/aryansanganti/aryansanganti/blob/main/banner2.png" alt="header-img" />
 </div>
 
-<h1 align="center">Hi, I'm Aryan Sanganti 👋</h1>
-<h3 align="center">Crafting seamless web experiences with rock-solid DevOps</h3>
+
 <br>
 
 ## 👨‍💻 About Me  
