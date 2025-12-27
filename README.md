@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://github.com/aryansanganti/aryansanganti/blob/main/banner.png" alt="header-img" />
+<img width="100%" src="https://github.com/aryansanganti/aryansanganti/blob/main/banner2.png" alt="header-img" />
 </div>
 
 <h1 align="center">Hi, I'm Aryan Sanganti 👋</h1>
