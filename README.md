@@ -37,7 +37,7 @@
 ### ⚙️ DevOps / Cloud
 <p align="center">
   
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,cloudflare,githubactions,linux,bash,terraform,ansible,postgresql,mysql,redis,git,github,vscode,python&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,cloudflare,githubactions,linux,bash,terraform,ansible,postgresql,mysql,redis,git,python&theme=dark&perline=12" />
 </p>
 
 
