@@ -26,14 +26,6 @@
 
 ---
 
-### 🧠 AI / Machine Learning 
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,postgresql,mongodb,firebase,bash,linux,git,github&theme=dark&perline=12" />
-</p>
-
----
-
 ### ⚙️ DevOps / Cloud
 <p align="center">
   
